@@ -1,4 +1,5 @@
 # testeaula02devops
 fulano
-sicladno
+fulano
 beltrano
+tristano
